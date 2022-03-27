@@ -1,0 +1,15 @@
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\bin\Debug\net6.0\FileData.deps.json
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\bin\Debug\net6.0\FileData.dll
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\bin\Debug\net6.0\FileData.pdb
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\bin\Debug\net6.0\Entities.dll
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\bin\Debug\net6.0\Entities.pdb
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.csproj.AssemblyReference.cache
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.AssemblyInfoInputs.cache
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.AssemblyInfo.cs
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.csproj.CoreCompileInputs.cache
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.csproj.CopyComplete
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.dll
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\refint\FileData.dll
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.pdb
+C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\ref\FileData.dll

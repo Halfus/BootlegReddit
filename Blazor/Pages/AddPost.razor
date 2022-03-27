@@ -1,0 +1,56 @@
+@page "/AddPost"
+@using Entities.Models
+@using Entities.Contracts
+@inject IPostHome _postHome
+@inject NavigationManager _navMgr
+
+    <div class="box">
+        <h3>AddPost</h3>
+        <EditForm Model="@_newPost" OnValidSubmit="@AddNewPost">
+            <DataAnnotationsValidator/>
+            <ValidationSummary/>
+            <div class="form-group field">
+                <span>
+                    <label>Post title:</label>
+                </span>
+                <span>
+                    <InputTextArea rows="1" @bind-Value="_newPost.Title"/>
+                </span>
+            </div>
+            <div class="form-group field">
+                <span>
+                    <label>Post content:</label>
+                </span>
+                <span>
+                    <InputTextArea rows="4" @bind-Value="_newPost.Body"/>
+                </span>
+            </div>
+            <p class="actions">
+                <button class="acceptbtn" type="submit">Send</button>
+            </p>
+        </EditForm>
+        @if(!string.IsNullOrEmpty(_errorLabel)) {
+            <label>@_errorLabel</label>
+        }
+    </div>
+
+@code {
+    private Post _newPost = new Post();
+    private string _errorLabel;
+    
+    private async Task AddNewPost()
+    {
+        _errorLabel = "";
+        try
+        {
+            await _postHome.AddAsync(_newPost);
+        }
+        catch (Exception e)
+        {
+            _errorLabel = e.Message;
+            return;
+        }
+        
+        _navMgr.NavigateTo("/Posts");
+    }
+}
