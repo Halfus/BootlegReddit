@@ -41,3 +41,45 @@ C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Blazor\obj\Debug\net6.0\s
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Blazor\obj\Debug\net6.0\scopedcss\Pages\LoginButtons.razor.rz.scp.css
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Blazor\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Blazor\bin\Debug\net6.0\postList.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\appsettings.Development.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\appsettings.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\postList.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Blazor.staticwebassets.runtime.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Blazor.exe
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Blazor.deps.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Blazor.runtimeconfig.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Blazor.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Blazor.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Entities.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\HttpServices.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\Entities.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\bin\Debug\net6.0\HttpServices.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.csproj.AssemblyReference.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.AssemblyInfoInputs.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.AssemblyInfo.cs
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.csproj.CoreCompileInputs.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.MvcApplicationPartsAssemblyInfo.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.RazorAssemblyInfo.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.RazorAssemblyInfo.cs
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\staticwebassets.build.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\staticwebassets.development.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\scopedcss\Pages\AddPost.razor.rz.scp.css
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\scopedcss\Pages\Login.razor.rz.scp.css
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\scopedcss\Pages\LoginButtons.razor.rz.scp.css
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\scopedcss\bundle\Blazor.styles.css
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\scopedcss\projectbundle\Blazor.bundle.scp.css
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.csproj.CopyComplete
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\refint\Blazor.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\Blazor.genruntimeconfig.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Blazor\obj\Debug\net6.0\ref\Blazor.dll

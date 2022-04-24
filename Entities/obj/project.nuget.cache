@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "OV/zPS9xEcG5q351Y+ps5ulY5smueUKTVAQVaVaJuEFqe3J/j/6MS4YWu0xCl6Z1SWNKhvR4MpP4oU7G19htsA==",
+  "dgSpecHash": "F947LzS4Tm9Qs/eTdKTEIwqvIbh29cs5URtgA/wJVf5rxbF1j7A1KQLLq/AFLoIHWJR7vzRJDdOxCnuV/iOsoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gigantyczny Laser\\Desktop\\Half\\RiderProjects\\BootlegReddit\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.3\\microsoft.aspnetcore.components.analyzers.6.0.3.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.3\\microsoft.aspnetcore.components.authorization.6.0.3.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.3\\microsoft.aspnetcore.metadata.6.0.3.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\microsoft.jsinterop\\6.0.3\\microsoft.jsinterop.6.0.3.nupkg.sha512",
-    "C:\\Users\\Gigantyczny Laser\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.3\\microsoft.aspnetcore.components.analyzers.6.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.3\\microsoft.aspnetcore.components.authorization.6.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.3\\microsoft.aspnetcore.metadata.6.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.jsinterop\\6.0.3\\microsoft.jsinterop.6.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

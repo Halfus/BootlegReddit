@@ -20,7 +20,7 @@ public class PostFileDAO : IPostHome
         return posts;
     }
 
-    public async Task<Post> GetById(int id)
+    public async Task<Post> GetByIdAsync(int id)
     {
         return _fileContext.Posts.First(t => t.Id == id);
     }

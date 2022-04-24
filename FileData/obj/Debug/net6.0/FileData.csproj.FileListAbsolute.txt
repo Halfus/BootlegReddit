@@ -13,3 +13,18 @@ C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\refint\FileData.dll
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\FileData.pdb
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\FileData\obj\Debug\net6.0\ref\FileData.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\bin\Debug\net6.0\FileData.deps.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\bin\Debug\net6.0\FileData.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\bin\Debug\net6.0\FileData.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\bin\Debug\net6.0\Entities.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\bin\Debug\net6.0\Entities.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.csproj.AssemblyReference.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.AssemblyInfoInputs.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.AssemblyInfo.cs
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.csproj.CoreCompileInputs.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.csproj.CopyComplete
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\refint\FileData.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\FileData.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\FileData\obj\Debug\net6.0\ref\FileData.dll

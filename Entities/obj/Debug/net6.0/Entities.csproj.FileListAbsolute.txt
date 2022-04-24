@@ -10,3 +10,15 @@ C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Entities\obj\Debug\net6.0
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Entities\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Entities\obj\Debug\net6.0\Entities.pdb
 C:\Users\Gigantyczny Laser\RiderProjects\BootlegReddit\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\bin\Debug\net6.0\Entities.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\Entities.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Halfa\DANIA\School Stuff\VIA\3rd semester\DNP1\RiderProjects\BootlegReddit2\Entities\obj\Debug\net6.0\ref\Entities.dll
