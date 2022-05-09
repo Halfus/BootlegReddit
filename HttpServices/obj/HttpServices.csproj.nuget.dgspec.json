@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\HttpServices\\HttpServices.csproj": {}
+    "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\HttpServices\\HttpServices.csproj": {}
   },
   "projects": {
-    "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\Entities.csproj": {
+    "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\obj\\",
+        "outputPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\HttpServices\\HttpServices.csproj": {
+    "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\HttpServices\\HttpServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\HttpServices\\HttpServices.csproj",
+        "projectUniqueName": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\HttpServices\\HttpServices.csproj",
         "projectName": "HttpServices",
-        "projectPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\HttpServices\\HttpServices.csproj",
+        "projectPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\HttpServices\\HttpServices.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\HttpServices\\obj\\",
+        "outputPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\HttpServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\Entities.csproj"
+              "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Entities\\Entities.csproj"
               }
             }
           }

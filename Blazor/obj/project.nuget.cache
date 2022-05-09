@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hZy4MXL+iIWM9jyCjas8eUvXT186Z4w5IpunhiuAwPCF7A3euKrwWLRBXGbGJO5xQpHayS39pcgNLP0pgl7r8A==",
+  "dgSpecHash": "CTTf1AgsMJ2wmsGgashxur4bYrIYGU717Ao0ezLE0mEWMvkCT0wJV/rPkY2VyOqDt/Q9/W8qrmFyILm+qcutcw==",
   "success": true,
-  "projectFilePath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Blazor\\Blazor.csproj",
+  "projectFilePath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Blazor\\Blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",

@@ -11,6 +11,7 @@ public class Post
     }
 
     public string Title { get; set; }
+    [Key]
     public int Id { get; set; }
     
     [Required]

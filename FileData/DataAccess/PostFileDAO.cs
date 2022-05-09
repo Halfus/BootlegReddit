@@ -49,4 +49,9 @@ public class PostFileDAO : IPostHome
         toUpdate.Body = post.Body;
         _fileContext.SaveChanges();
     }
+
+    public Task<ICollection<Post>> GetAsync(int? userId)
+    {
+        throw new NotImplementedException();
+    }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F947LzS4Tm9Qs/eTdKTEIwqvIbh29cs5URtgA/wJVf5rxbF1j7A1KQLLq/AFLoIHWJR7vzRJDdOxCnuV/iOsoA==",
+  "dgSpecHash": "fSpeYoyh2aSucTCYcrR9x26YhEfnGFsnOtwNSIqvkF5p6e91tNoiO7F4i95HdDRsVApPQ4wdPrUXjfrrpdp1UQ==",
   "success": true,
-  "projectFilePath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit2\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Halfa\\DANIA\\School Stuff\\VIA\\3rd semester\\DNP1\\RiderProjects\\BootlegReddit3\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",

@@ -82,4 +82,9 @@ public class PostHttpClient : IPostHome
             throw new Exception($"Error: {response.StatusCode}, {responseContent}");
         }
     }
+
+    public Task<ICollection<Post>> GetAsync(int? userId)
+    {
+        throw new NotImplementedException();
+    }
 }
